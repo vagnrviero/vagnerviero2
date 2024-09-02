@@ -1,11 +1,11 @@
-bem vindos ao meu perfil 
+bem vindos ao meu perfil 📬
 
-vagner viero
+vagner viero🔖
 
-Estou estudando na Alura
+Estou estudando na Alura⌛
 
 Estou me desenvolvendo na linguagem JavaScript
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos🪁
 
  vagner.viero@escola.pr.gov.br
